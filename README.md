@@ -70,8 +70,8 @@ Edit this document to include your answers after each question. Make sure to lea
 5. Define mobile-first design in your own words.
 
 ------------------------------------------------
-    This just means that content structure of web-design is specifically catered to mobile at intial
-    design. This means that it's not mobile responsive, but rather it what created on mobile design
+    This just means that content structure of web-design is specifically catered to mobile at initial
+    design. This means that it's not mobile responsive, but rather it was created on mobile design
     focus. This is just a strategy as there is a higher rate for mobile users.
 ------------------------------------------------
 
