@@ -36,13 +36,44 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+--------------------------------------------------------------------------------------------
+    Semantic HTML is the recommended use of web-design to build the structure with the use
+    of meaningful tags for clarity. Elements have markup up designed to the element names that make it
+    easier to understand its use for organization.
+--------------------------------------------------------------------------------------------
+
+
 2. What are the 4 areas of the box model?
+
+------------------------------------------
+    + Margin
+    + Border
+    + Padding
+    + Content
+------------------------------------------
 
 3. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+-------------------------------------------------------------------------------------------------
+    It works on the cross-axis.
+-------------------------------------------------------------------------------------------------
+
 4. Explain why git is valuable to a team of developers.
 
+-------------------------------------------------------
+    Some reasons why git is valuable to a team of developers is because the merge process makes it
+    easier to collaborate without people overwriting each other's changes. Also if a change has been
+    overwritten, there is a way to go back to previous version as one of the main features of git is
+    version control.
+-------------------------------------------------------
+
 5. Define mobile-first design in your own words.
+
+------------------------------------------------
+    This just means that content structure of web-design is specifically catered to mobile at initial
+    design. This means that it's not mobile responsive, but rather it was created on mobile design
+    focus. This is just a strategy as there is a higher rate for mobile users.
+------------------------------------------------
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
